@@ -1,0 +1,2 @@
+from decimal import Decimal as d
+while 1:s=input();print(d(s.split()[0])/10**d(s.split()[1]))
